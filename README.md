@@ -70,3 +70,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+### Install openZepellin
+
+forge install OpenZeppelin/openzeppelin-contracts
